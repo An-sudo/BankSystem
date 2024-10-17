@@ -1,5 +1,9 @@
-# BankSystem
+# Foundation of C++ Language on Terminal BankSystem
 
-Code from Data Structure final project of Data Structure.
+---
 
-Run this code by using c++.
+The code reflected the **final project** of the Data Structure course.
+
+All functions run by terminal interaction
+All functions are made in `C++` without Unit tests.
+Please compile all code and run it in `C++` environment
